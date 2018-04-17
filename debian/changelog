@@ -1,3 +1,9 @@
+stlink (1.5.0~joede9+2) stretch-backports; urgency=medium
+
+  * rebase with vendor master after fix of #700 and #701.
+
+ -- Joerg Desch <debian@jdesch.de>  Tue, 17 Apr 2018 07:34:54 +0200
+
 stlink (1.5.0~joede9+1) stretch-backports; urgency=medium
 
   * Ported for stretch-experimental. Some of the debian/*.install
