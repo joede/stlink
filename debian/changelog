@@ -1,3 +1,9 @@
+stlink (1.5.0~joede9+3) stretch-backports; urgency=medium
+
+  * add SVG icon and .dektop file to the Debian package.
+
+ -- Joerg Desch <debian@jdesch.de>  Wed, 02 May 2018 20:09:34 +0200
+
 stlink (1.5.0~joede9+2) stretch-backports; urgency=medium
 
   * rebase with vendor master after fix of #700 and #701.
